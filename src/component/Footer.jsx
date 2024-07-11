@@ -10,7 +10,8 @@ export const Footer = () => {
             &copy; {getFullYear()} Build with
             <img className="inline-block size-5 mx-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
             and
-            <FaReact className="inline-block size-5 react-logo mx-1" />
+
+            <img className="inline-block size-5 react-logo mx-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
         </footer>
     );
 };
