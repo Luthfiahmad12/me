@@ -5,8 +5,8 @@ export const Bio = () => {
         { key: 'Instagram', value: 'ahmadluthfia_' },
         { key: 'GitHub', value: 'luthfiahmad12' },
         { key: 'LinkedIn', value: 'luthfiahmad12' },
-        { key: 'Email', value: '3uVzP@example.com' },
-        { key: 'Website', value: 'luthfiahmad12.github.io' },
+        { key: 'Email', value: 'luthfiafif625@gmail.com' },
+        { key: 'Website', value: 'https://luthfi-portofolio.vercel.app/' },
     ];
 
     return (
