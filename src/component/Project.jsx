@@ -55,7 +55,7 @@ export const Project = ({ className = 'w-full' }) => {
                         <div key={index} className="transition duration-300 ease-in-out rounded-md shadow-lg card bg-base-100 hover:shadow-2xl hover:-translate-y-1 hover:scale-100 ">
                             <div className="flex flex-col justify-between p-4">
                                 <div>
-                                    <a href="javascript:void(0)" className="flex items-center truncate">
+                                    <a href="#!" className="flex items-center truncate">
                                         <div className="flex text-lg tracking-wide card-title text-base-content opacity-60">
                                             <FaLink className="my-auto" />
                                             <span className="hover:text-blue-500">{item.name}</span>

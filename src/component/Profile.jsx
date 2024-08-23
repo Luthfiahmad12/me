@@ -7,7 +7,7 @@ export const Profile = () => {
             <div className="grid py-8 place-items-center">
                 <div className="mb-5 avatar">
                     <div className="w-24 border border-gray-400 rounded-full opacity-90">
-                        <img src={img} alt="profile" />
+                        <img src="./user.svg" alt="profile" className="opacity-50" />
                     </div>
                 </div>
                 <div className="px-8 mx-auto text-center">
